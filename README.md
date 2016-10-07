@@ -2,7 +2,6 @@
 
 npm ninjs-* factory
 
-
-
+# ninjs-lodash
 
 
