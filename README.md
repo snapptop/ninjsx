@@ -1,0 +1,2 @@
+# ninjsx
+npm ninjs-* factory
